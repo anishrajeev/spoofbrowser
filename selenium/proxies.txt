@@ -1,0 +1,2 @@
+//put proxy type(none, ip, or password)
+//put proxies
